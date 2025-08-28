@@ -1,0 +1,9 @@
+{
+  "baseFontSize": 14,
+  "accentColor": "#6e968c",
+  "interfaceFontFamily": "SF Pro",
+  "textFontFamily": "SWComp",
+  "cssTheme": "Border",
+  "theme": "moonstone",
+  "monospaceFontFamily": "Andale Mono"
+}

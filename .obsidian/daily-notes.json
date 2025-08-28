@@ -1,0 +1,6 @@
+{
+  "autorun": false,
+  "format": "MM-DD-YY ddd",
+  "template": "templates/daily notes",
+  "folder": "kelvin/daily"
+}

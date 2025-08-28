@@ -1,0 +1,36 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "dcVPDS7UFXNKcfcSjJrkF",
+      "name": "green",
+      "value": "#1abc9c"
+    },
+    {
+      "id": "aySGskSmvv8dXC_vsX_ph",
+      "name": "red",
+      "value": "#e91e63"
+    },
+    {
+      "id": "584LZdZ_QVtVxIrSMXaKp",
+      "name": "blue",
+      "value": "#3498db"
+    },
+    {
+      "id": "2vpSgr-0bHhquYdk4awvp",
+      "name": "yellow",
+      "value": "#f1c40f"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "1, books",
+      "color": "2vpSgr-0bHhquYdk4awvp"
+    },
+    {
+      "path": "journal",
+      "color": "584LZdZ_QVtVxIrSMXaKp"
+    }
+  ]
+}
